@@ -5,7 +5,7 @@ A basic web scraper made in python using the Selenium and Beautiful Soup 4 libra
 This script relies on two libraries to scrape LinkedIn profiles: Selenium and Beautiful Soup 4.
 Selenium simulates human users using a web brower and makes authenticating to an application very easy. 
 Using Selenium opens a browser by using web drivers.  Beautiful Soup 4 is made to effectivly parse HTTP
-requests which will be will be retrived by Selenium. A menu has been made using curses.
+requests which will be will be retrived by Selenium.
 
 More details on port scanning on web scraping with Selenium can also be found in the video below:
 
